@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swerkf&label=Profile%20views&color=0e75b6&style=flat" alt="swerkf" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swerkf" alt="swerkf" /></a> </p>
-
 - 🔭 I’m currently working on **Cheat-Sheet - Swerk, my Portfolio and a person that hired me!**
 
 - 🌱 I’m currently learning **a lot of new stuff, especially JavaScript and React.**
@@ -27,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swerkf&show_icons=true&locale=en" alt="swerkf" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swerkf&" alt="swerkf" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swerkf" alt="swerkf" /></a> </p>
