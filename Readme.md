@@ -9,7 +9,7 @@
 
 - 📫 You can reach me **by using Discord (Swerk#0911) or mail (swerk.pro@gmail.com)**
 
-- ⚡ I almost forgot, I am polish but live in France. **I speak Polish, French and English and un poco espanol.**
+- ⚡ I almost forgot, I am polish but live in France. **I speak Polish, French and English and spanish.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
