@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://www.swerk.dev](https://www.swerk.dev)
 
-- 📫 How to reach me **swerk.pro@gmail.com**
+- 📫 How to reach me **oliwer721@gmail.com**
 
-- ⚡ I almost forgot **I am polish but live in France. I speak Polish, French, English and spanish.**
+- ⚡ I almost forgot **I am polish but live in France. I speak Polish, French, English and Spanish.**
 
 <hr>
 <h3 align="left">Connect with me:</h3>
