@@ -23,5 +23,4 @@
 <hr>
 <h3 align="left">Github languages :</h3>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swerkf&show_icons=true&locale=en&layout=compact" alt="swerkf" /><hr>
-<h3 align="left">Github stats :</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swerkf&" alt="swerkf" /></p>
+
