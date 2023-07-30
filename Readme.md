@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oliwer Skweres</h1>
 <h3 align="center">I seek to become a good full stack developper.</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=swerkf&label=Profile%20views&color=0e75b6&style=flat" alt="swerkf" /> </p>
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on **private projects**
 
 - 🌱 I’m currently learning **React and Typescript**
 
