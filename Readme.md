@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Swerk</h1>
-<img align="center" src="https://github.com/SwerkF/SwerkF/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 <h3 align="center">I seek to become a good full stack developper.</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=swerkf&label=Profile%20views&color=0e75b6&style=flat" alt="swerkf" /> </p>
 
-- 🔭 I’m currently working on **private projects**
+<img align="center" src="https://github.com/SwerkF/SwerkF/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-- 🌱 I’m currently learning **React and Typescript**
+- 🦅 Made by Poland. Speaks Polish, French, English and Spanish.
 
-- ⚡ I almost forgot **I am polish but live in France. I speak Polish, French, English and Spanish.**
+- 💖 React Lover
 
+- 💻 If I am not coding, I am surely playing league (help)
 
 <hr>
 <h3 align="left">My tech:</h3><div align="center">
@@ -40,6 +40,13 @@
 </div>
 <hr>
 <h3 align="left">Others :</h3>
+
+```bash
+git add .
+git commit - m "Important thing I guess ?"
+# *Forget to push*
+```
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swerkf&show_icons=true&locale=en&layout=compact" alt="swerkf" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SwerkF&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 
