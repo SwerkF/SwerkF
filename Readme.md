@@ -42,6 +42,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SwerkF/SwerkF/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/SwerkF/SwerkF/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
