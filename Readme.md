@@ -47,7 +47,4 @@ git commit - m "Important thing I guess ?"
 # *Forget to push*
 ```
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swerkf&show_icons=true&locale=en&layout=compact" alt="swerkf" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SwerkF&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-
 
