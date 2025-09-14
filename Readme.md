@@ -115,7 +115,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://imgur.com/a/SkV60xc"/>
+  <img height="400" src="https://i.imgur.com/bdckmYN.png"/>
 </div>
 
 ###
