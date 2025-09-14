@@ -115,7 +115,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://cdn.discordapp.com/attachments/884145833036095559/1412924251584860211/image.png?ex=68ba0fc0&is=68b8be40&hm=5f5dd308b70fa3f02be29eb91568bccaa45d52c19f22c56aa3e00098ffbcde6f&"  />
+  <img height="400" src="https://imgur.com/a/SkV60xc"/>
 </div>
 
 ###
