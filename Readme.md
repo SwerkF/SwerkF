@@ -2,12 +2,6 @@
 
 ###
 
-<div align="center">
-  <img height="450" src="https://cdn.discordapp.com/attachments/884145833036095559/1412916620849840348/Nouveau_projet.png?ex=68ba08a5&is=68b8b725&hm=2bca9a6d99044aa75764735534b953d393975ce70c3d212aab5c819f0086bf4d&"  />
-</div>
-
-###
-
 <h2 align="left">Me, myself, and I</h2>
 
 ###
