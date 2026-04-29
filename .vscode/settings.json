@@ -1,0 +1,67 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "always",
+    "source.organizeImports": "always"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
+  "prettier.documentSelectors": [
+    "**/*.{js,jsx,ts,tsx,vue,html,css,scss,less,json,md,mdx,graphql,yaml,yml,php,json}"
+  ],
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.expand": false,
+  "explorer.fileNesting.patterns": {
+    ".env": ".env.*, env.*",
+    "package.json": "package-lock.json, pnpm-lock.yaml, yarn.lock, npm-shrinkwrap.json",
+    "tsconfig.json": "tsconfig.*.json",
+    "vite.config.*": "vite.config.*.ts, vite.config.*.js",
+    "tailwind.config.*": "tailwind.config.*.js, tailwind.config.*.ts, postcss.config.*",
+    "*.tsx": "${capture}.module.css, ${capture}.module.scss, ${capture}.stories.tsx, ${capture}.test.tsx"
+  },
+  "workbench.iconTheme": "flow-deep",
+  "flow-icons.folders.associations": {
+    "migrations": "prisma",
+    "features": "app",
+    "ui": "layout",
+    "stores": "stack",
+    "email-templates": "template",
+    "grafana-provisioning": "console",
+    "schemas": "images",
+    "repositories": "database",
+    "transformers": "decorators",
+    "bruno": "api",
+    "emails": "views",
+    "dto": "enum",
+    "queries": "api",
+    "worker": "python"
+  },
+  "files.exclude": {
+    "**/node_modules": true
+  },
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.defaultProfile.linux": "zsh",
+  "terminal.integrated.profiles.linux": {
+    "zsh": {
+      "path": "zsh"
+    },
+    "bash": {
+      "path": "bash"
+    }
+  },
+  "terminal.integrated.defaultProfile.osx": "zsh"
+}
