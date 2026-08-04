@@ -1,8 +1,7 @@
 <h1 align="center">◥ ▬▬▬▬▬ 🩵 I'm glad to see you here 🩵 ▬▬▬▬▬ ◤</h1>
 
 ###
-<img src="https://hits.sh/github.com/SwerkF/SwerkF.svg?label=Repo+Views&color=0e75b6&style=for-the-badge" />
-<h2 align="left">Me, myself, and I</h2>
+![Repo Views](https://hits.sh/github.com/SwerkF/SwerkF.svg?label=Repo+Views&color=0e75b6&style=for-the-badge&view=today-total)<h2 align="left">Me, myself, and I</h2>
 
 ###
 
