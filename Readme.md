@@ -1,7 +1,11 @@
 <h1 align="center">◥ ▬▬▬▬▬ 🩵 I'm glad to see you here 🩵 ▬▬▬▬▬ ◤</h1>
 
 ###
-![Repo Views](https://hits.sh/github.com/SwerkF/SwerkF.svg?label=Repo+Views&color=0e75b6&style=for-the-badge&view=today-total)<h2 align="left">Me, myself, and I</h2>
+<div align="center">
+![People trying get my .env](https://hits.sh/github.com/SwerkF/SwerkF.svg?label=Repo+Views&color=0e75b6&style=for-the-badge&view=today-total)
+<img src="https://komarev.com/ghpvc/?username=SwerkF&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+</div>
+<h2 align="left">Me, myself, and I</h2>
 
 ###
 
