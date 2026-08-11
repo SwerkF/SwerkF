@@ -2,37 +2,60 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
   "editor.codeActionsOnSave": {
-    "source.fixAll": "always",
-    "source.organizeImports": "always"
+    "source.fixAll.eslint": "explicit",
+    "source.organizeImports": "explicit"
   },
-  "[typescript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[typescriptreact]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[javascript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[javascriptreact]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[prisma]": {
-    "editor.defaultFormatter": "Prisma.prisma"
-  },
+  "[typescript]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "[typescriptreact]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "[javascript]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "[javascriptreact]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "[json]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "[jsonc]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "[prisma]": { "editor.defaultFormatter": "Prisma.prisma" },
+
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "typescript.preferences.importModuleSpecifier": "shortest",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+
+  "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
+
+  "npm.packageManager": "bun",
+
   "prettier.documentSelectors": [
     "**/*.{js,jsx,ts,tsx,vue,html,css,scss,less,json,md,mdx,graphql,yaml,yml,php,json}"
   ],
+
   "explorer.fileNesting.enabled": true,
   "explorer.fileNesting.expand": false,
   "explorer.fileNesting.patterns": {
     ".env": ".env.*, env.*",
-    "package.json": "package-lock.json, pnpm-lock.yaml, yarn.lock, npm-shrinkwrap.json",
+    "package.json": "package-lock.json, pnpm-lock.yaml, yarn.lock, npm-shrinkwrap.json, bun.lockb, bun.lock",
     "tsconfig.json": "tsconfig.*.json",
     "vite.config.*": "vite.config.*.ts, vite.config.*.js",
     "tailwind.config.*": "tailwind.config.*.js, tailwind.config.*.ts, postcss.config.*",
+    "docker-compose.yml": "docker-compose.*.yml, Dockerfile*, .dockerignore",
+    "schema.prisma": "*.prisma",
     "*.tsx": "${capture}.module.css, ${capture}.module.scss, ${capture}.stories.tsx, ${capture}.test.tsx"
   },
+
+  "files.exclude": { "**/node_modules": true },
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/.next": true,
+    "**/dist": true,
+    "**/bun.lockb": true
+  },
+  "files.watcherExclude": {
+    "**/node_modules/**": true,
+    "**/.next/**": true,
+    "**/dist/**": true
+  },
+  "files.associations": { ".env*": "dotenv" },
+
+  "git.autofetch": true,
+  "git.confirmSync": false,
+
   "workbench.iconTheme": "flow-deep",
   "flow-icons.folders.associations": {
     "migrations": "prisma",
@@ -48,20 +71,44 @@
     "emails": "views",
     "dto": "enum",
     "queries": "api",
-    "worker": "python"
-  },
-  "files.exclude": {
-    "**/node_modules": true
-  },
+    "worker": "python",
+    "middlewares": "middleware",
+    "guards": "guard",
+    "interceptors": "interceptor",
+    "controllers": "controller",
+    "validators": "policy",
+    "hooks": "hook",
+    "providers": "context",
+    "utils": "utils",
+    "helpers": "helper",
+    "constants": "constant",
+    "types": "type",
+    "interfaces": "interface",
+    "config": "config",
+    "lib": "lib",
+    "tests": "test",
+    "__tests__": "test",
+    "docker": "docker",
+    "scripts": "scripts",
+    "public": "public",
+    "queue": "queue",
+    "jobs": "job",
+    "cron": "job",
+    "socket": "socket",
+    "webhooks": "socketio",
+    "storage": "cloud",
+    "cache": "database",
+    "redis": "database",
+    "core": "core",
+    "shared": "shared",
+    "seed": "images"
+  }
+
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "terminal.integrated.defaultProfile.linux": "zsh",
   "terminal.integrated.profiles.linux": {
-    "zsh": {
-      "path": "zsh"
-    },
-    "bash": {
-      "path": "bash"
-    }
+    "zsh": { "path": "zsh" },
+    "bash": { "path": "bash" }
   },
   "terminal.integrated.defaultProfile.osx": "zsh"
 }
