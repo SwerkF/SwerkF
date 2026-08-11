@@ -13,12 +13,17 @@
   "[jsonc]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
   "[prisma]": { "editor.defaultFormatter": "Prisma.prisma" },
 
-  "typescript.tsdk": "node_modules/typescript/lib",
-  "typescript.enablePromptUseWorkspaceTsdk": true,
-  "typescript.preferences.importModuleSpecifier": "shortest",
-  "typescript.updateImportsOnFileMove.enabled": "always",
+  "js/ts.tsdk.path": "node_modules/typescript/lib",
+  "js/ts.tsdk.promptToUseWorkspaceVersion": true,
+  "js/ts.preferences.importModuleSpecifier": "shortest",
+  "js/ts.updateImportsOnFileMove.enabled": "always",
 
-  "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
 
   "npm.packageManager": "bun",
 
@@ -102,7 +107,7 @@
     "core": "core",
     "shared": "shared",
     "seed": "images"
-  }
+  },
 
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "terminal.integrated.defaultProfile.linux": "zsh",
